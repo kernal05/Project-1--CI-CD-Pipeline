@@ -11,4 +11,5 @@
   ],
   "desiredCount": 2,
   "role": "ecsServiceRole"
+  
 }
